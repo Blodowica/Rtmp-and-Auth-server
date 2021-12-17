@@ -1,2 +1,2 @@
-# Blodowica-LiveStreamingPlatform-FrontEnd
-Netlfiy is conneced for the front end build (CI/CD)
+# Rtmp server and Auth server
+Work on localhsot still needs to be optimised and hosted for production version 
